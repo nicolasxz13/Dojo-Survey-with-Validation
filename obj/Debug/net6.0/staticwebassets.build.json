@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "bv39kMtp896mOKYLu8WbwCKBP/1d8LR2pPxH/4tnWLE=",
+  "Source": "Dojo Survey with Validation",
+  "BasePath": "_content/Dojo Survey with Validation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dojo Survey with Validation\\wwwroot",
+      "Source": "Dojo Survey with Validation",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Validation\\wwwroot\\",
+      "BasePath": "_content/Dojo Survey with Validation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Validation\\wwwroot\\css\\styles.css",
+      "SourceId": "Dojo Survey with Validation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Validation\\wwwroot\\",
+      "BasePath": "_content/Dojo Survey with Validation",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
